@@ -6,3 +6,4 @@ Terceira alteração mesma linha anterior
 =======
 Terceira alteração
 >>>>>>> feature
+# Tarefa
